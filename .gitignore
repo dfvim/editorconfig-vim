@@ -6,3 +6,5 @@ tests/**/.bundle
 *.swp
 *~
 ~*
+# ignore commit message
+.gitcommit
